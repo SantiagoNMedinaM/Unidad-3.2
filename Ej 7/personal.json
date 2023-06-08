@@ -1,0 +1,100 @@
+{
+    "__class__": "Lista",
+    "comienzo": [
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "nombre": "Perez",
+                "apellido": "Rodrigo",
+                "cuil": "13-3276232-1",
+                "sueldobase": 32319.3,
+                "antiguedad": 2,
+                "areaInv": "Data Science",
+                "tipoInv": "DS"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "nombre": "Dias",
+                "apellido": "Martin",
+                "cuil": "23-28412973-2",
+                "sueldobase": 23415.3,
+                "antiguedad": 3,
+                "carrera": "LSI",
+                "cargo": "simple",
+                "catedra": "Matematica Discreta"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "nombre": "Morales",
+                "apellido": "Luciana",
+                "cuil": "21-23849501-4",
+                "sueldobase": 57210.4,
+                "antiguedad": 6,
+                "carrera": "LCC",
+                "cargo": "semiexclusivo",
+                "catedra": "Algebra",
+                "areaInv": "Cientifico Matematico",
+                "tipoInv": "Matematica Aplicada",
+                "categoria": "III",
+                "impExtra": 1029.8
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "nombre": "Graciela",
+                "apellido": "Pereyra",
+                "cuil": "21-28472012-5",
+                "antiguedad": 2,
+                "categoria": 11
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "nombre": "Rodriguez",
+                "apellido": "Javier",
+                "cuil": "20-19472384-6",
+                "sueldobase": 50192.3,
+                "antiguedad": 11,
+                "carrera": "LCC",
+                "cargo": "exclusivo",
+                "catedra": "Estructuras II",
+                "areaInv": "Programacion a bajo Nivel",
+                "tipoInv": "Acceso a Herramientas del BIOS",
+                "categoria": "III",
+                "impExtra": 2912.5
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "nombre": "Sanchez",
+                "apellido": "Roberto",
+                "cuil": "23-20194573-7",
+                "sueldobase": 38345.3,
+                "antiguedad": 3,
+                "carrera": "LSI",
+                "cargo": "simple",
+                "catedra": "Procedural"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "nombre": "Sanchez",
+                "apellido": "Jaime",
+                "cuil": "23-2291201-5",
+                "sueldobase": 38345.3,
+                "antiguedad": 3,
+                "carrera": "LSI",
+                "cargo": "simple",
+                "catedra": "Procedural"
+            }
+        }
+    ]
+}

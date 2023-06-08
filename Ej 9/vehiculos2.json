@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "usado",
+        "modelo": "Mondeo",
+        "cantpuertas": 5,
+        "color": "Rojo",
+        "preciobase": 15000.0,
+        "marca": "Ford",
+        "version": "full"
+    },
+    {
+        "tipo": "usado",
+        "modelo": "Focus",
+        "cantpuertas": 4,
+        "color": "Gris",
+        "preciobase": 20000.0,
+        "marca": "Ford",
+        "version": "base"
+    },
+    {
+        "tipo": "usado",
+        "modelo": "Corsa",
+        "cantpuertas": 3,
+        "color": "Negro",
+        "preciobase": 8000.0,
+        "marca": "Chevrolet",
+        "patente": "ABC123",
+        "anio": 2015,
+        "kilometraje": 50000
+    },
+    {
+        "tipo": "usado",
+        "modelo": "Gol",
+        "cantpuertas": 5,
+        "color": "Blanco",
+        "preciobase": 10000.0,
+        "marca": "Volkswagen",
+        "patente": "DEF456",
+        "anio": 2012,
+        "kilometraje": 150000
+    }
+]
